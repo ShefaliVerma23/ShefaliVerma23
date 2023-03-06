@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shefali Verma</h1>
 <h3 align="center">Developer & Cyber Security Analyst, JavaScript and Python Expert</h3>
 
+<p align="left"> <a href="https://twitter.com/Shefali44393450" target="blank"><img src="https://img.shields.io/twitter/follow/_Shefali44393450_?logo=twitter&style=for-the-badge" alt="_s3ria1_" /></a> </p>
+
 - 🔭 I’m currently working on **End to End Logistics SAAS Platform**
 
 - 🌱 I’m currently learning **Python, Javascript, MongoDB, Kuberneties, Dockers, ElasticSearch**
